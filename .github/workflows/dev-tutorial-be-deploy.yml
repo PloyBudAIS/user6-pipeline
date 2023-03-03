@@ -1,4 +1,4 @@
-dev-tutorial-be-deploy.yml
+name: DEV - Tutorial BE Deploy
 
 on:
   repository_dispatch:
